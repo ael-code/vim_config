@@ -20,6 +20,7 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'kien/ctrlp.vim'
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
+Plugin 'chriskempson/vim-tomorrow-theme'
 Plugin 'scrooloose/syntastic'
 
 " All of your Plugins must be added before the following line

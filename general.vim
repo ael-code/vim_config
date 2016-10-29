@@ -98,7 +98,3 @@ if has('langmap') && exists('+langremap')
   " compatible).
   set nolangremap
 endif
-
-
-" use dark color "
-set background=dark
