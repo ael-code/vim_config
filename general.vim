@@ -25,11 +25,6 @@ endif
 " confusing.
 set nrformats-=octal
 
-" For Win32 GUI: remove 't' flag from 'guioptions': no tearoff menu entries.
-if has('win32')
-  set guioptions-=t
-endif
-
 " Don't use Ex mode, use Q for formatting.
 " Revert with ":unmap Q".
 map Q gq
