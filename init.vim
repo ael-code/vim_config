@@ -27,6 +27,14 @@ Plugin 'edkolev/tmuxline.vim'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'tpope/vim-fugitive'
 
+" The original easytags plugin repo has a pending PR [1]
+" that allow to use the universal-ctags implementation [2]
+" [1] https://github.com/xolox/vim-easytags/pull/133
+" [2] https://github.com/universal-ctags/ctags
+" Plugin 'xolox/vim-easytags'
+Plugin 'oepn/vim-easytags'
+Plugin 'xolox/vim-misc'
+
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
 filetype plugin indent on    " required
