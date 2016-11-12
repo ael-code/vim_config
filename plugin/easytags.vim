@@ -8,3 +8,5 @@ set tags=./.tags;
 let g:easytags_dynamic_files = 1 
 " analyze files recursively from the current dir
 let g:easytags_autorecurse = 1
+" run the tags update in background"
+let g:easytags_async = 1
