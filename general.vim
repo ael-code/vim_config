@@ -93,3 +93,6 @@ if has('langmap') && exists('+langremap')
   " compatible).
   set nolangremap
 endif
+
+
+set tabstop=4
