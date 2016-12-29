@@ -94,5 +94,5 @@ if has('langmap') && exists('+langremap')
   set nolangremap
 endif
 
-
+set shiftwidth=4
 set tabstop=4
