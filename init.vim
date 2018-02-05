@@ -32,8 +32,8 @@ Plugin 'tpope/vim-fugitive'
 " [1] https://github.com/xolox/vim-easytags/pull/133
 " [2] https://github.com/universal-ctags/ctags
 " Plugin 'xolox/vim-easytags'
-Plugin 'oepn/vim-easytags'
-Plugin 'xolox/vim-misc'
+" Plugin 'oepn/vim-easytags'
+" Plugin 'xolox/vim-misc'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required

@@ -7,7 +7,7 @@ if exists(":UpdateTags")
 	" Remind that ';' instruct vim to search backword
 	let g:easytags_dynamic_files = 1 
 	" analyze files recursively from the current dir
-	let g:easytags_autorecurse = 1
+	let g:easytags_autorecurse = 0
 	" run the tags update in background"
 	let g:easytags_async = 1
 endif
