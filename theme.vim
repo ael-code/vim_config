@@ -4,9 +4,10 @@ set background=dark
 syntax on
 " enable 256 colors palette"
 
-colorscheme base16-tomorrow-night
+" set termguicolors
 set t_Co=256
 let base16colorspace=256  " Access colors present in 256 colorspace
-set termguicolors
+colorscheme base16-tomorrow-night
+
 " always show status bar
 set laststatus=2
