@@ -26,6 +26,7 @@ Plugin 'mileszs/ack.vim'
 Plugin 'edkolev/tmuxline.vim'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'tpope/vim-fugitive'
+Plugin 'rhysd/vim-clang-format'
 
 " The original easytags plugin repo has a pending PR [1]
 " that allow to use the universal-ctags implementation [2]
