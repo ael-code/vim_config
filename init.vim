@@ -26,6 +26,7 @@ Plugin 'mileszs/ack.vim'
 Plugin 'edkolev/tmuxline.vim'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'tpope/vim-fugitive'
+Plugin 'tpope/vim-rhubarb'
 Plugin 'rhysd/vim-clang-format'
 Plugin 'junegunn/fzf.vim'
 
