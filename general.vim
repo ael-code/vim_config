@@ -42,6 +42,10 @@ if has('mouse')
   set mouse=a
 endif
 
+if !has('nvim')
+  set ttymouse=xterm2
+endif
+
 " Switch syntax highlighting on when the terminal has colors or when using the
 " GUI (which always has colors).
 if &t_Co > 2 || has("gui_running")
