@@ -17,7 +17,7 @@ Plugin 'VundleVim/Vundle.vim'
 
 " Keep Plugin commands between vundle#begin/end.
 
-Plugin 'kien/ctrlp.vim'
+" Plugin 'kien/ctrlp.vim'
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
 Plugin 'chriskempson/base16-vim'
@@ -27,6 +27,7 @@ Plugin 'edkolev/tmuxline.vim'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'tpope/vim-fugitive'
 Plugin 'rhysd/vim-clang-format'
+Plugin 'junegunn/fzf.vim'
 
 " The original easytags plugin repo has a pending PR [1]
 " that allow to use the universal-ctags implementation [2]
