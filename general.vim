@@ -20,6 +20,8 @@ set scrolloff=5
 if has('reltime')
   set incsearch
 endif
+set ignorecase
+set smartcase
 
 " Do not recognize octal numbers for Ctrl-A and Ctrl-X, most users find it
 " confusing.
