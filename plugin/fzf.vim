@@ -1,4 +1,5 @@
 nnoremap <silent> <C-p> :Files<cr>
+nnoremap <silent> <C-b> :BTags<cr>
 
 " Mapping selecting mappings
 
